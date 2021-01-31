@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **lucasgdutra/lucasgdutra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Olá eu sou Lucas
+### Olá eu sou Lucas
 
 - Sou técnico em informática formado pelo IFTM e estudante de graduação em estatística na UFU.
 - Trabalho como Analista de Business Intelligence a dois anos. Utilizando a suíte Pentaho como ferramenta de ETL e visualização de dados.
