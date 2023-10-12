@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Olá eu sou Lucas
 
-- Sou técnico em informática formado pelo IFTM e estudante de graduação em estatística na UFU.
-- Trabalho como Analista de Business Intelligence a dois anos. Utilizando a suíte Pentaho como ferramenta de ETL e visualização de dados.
+- Sou técnico em informática formado pelo IFTM e estudante de sistemas de informação na UFU.
+- Trabalho como Analista de Business Intelligence, utilizando a suíte Pentaho como ferramenta de ETL e visualização de dados.
 - Possuo conhecimento intermediário em inglês e conhecimento técnico em manutenção de computadores, redes, gestão, sistemas operacionais e programação.
 - Você pode entrar em contato comigo pelo email lucasgdutra@gmail.com
